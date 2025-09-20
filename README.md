@@ -4,4 +4,4 @@ Sabrina Ella Zafira | 2546000074
 Sistem Terdistribusi - B
 
 ## File PDF
-[Buka file PDF](docs/HasilPengerjaan.pdf)
+[Buka file PDF](HasilPengerjaan.pdf)
